@@ -96,6 +96,6 @@ public class Producto {
         this.codigo = codigo;
     }
     
-    //Osvaldo
+    
   
 }
